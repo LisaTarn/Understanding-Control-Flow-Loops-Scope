@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp9637254.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    .center{
+        border: 5 px solid;
+        margin: auto;
+        width: 50%;
+        padding: 10px;
+    }
+    text-align: center;
+      font-family: fantasy;
+      color:rgb(243, 244, 245);
+      margin: 0;
+      padding: 50px;
+    }
+    
